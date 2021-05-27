@@ -1,4 +1,4 @@
-# paa3
+# Projeto e Análise de Algoritmmos - Lista 03
 Referências dos algoritmos utilizadas:
 
 Introduction to the design & analysis of algorithms / Anany Levitin. 3rd ed. Tenenbaum, Aaron M.
