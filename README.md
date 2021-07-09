@@ -6,7 +6,7 @@ de um arranjo de n elementos.
 5. Implemente um algoritmo de divis~ao e conquista para encontrar a posicão do maior e do menor
 elemento de um arranjo de n elementos.
 6. Implemente o algoritmo QuickSort
-9. Implemente a estrutura de dados Arvore Binaria.
+9. Implemente a estrutura de dados Arvore Binária.
 10. Implemente um algoritmo recursivo que encontre o tamanho de uma arvore binaria.
 12. Implemente os caminhamentos preorder, postorder e inorder para arvores binarias.
 13. Implemente o algoritmo de Strassen para multiplicac~ao de matrizes? Como este algoritmo se
@@ -15,7 +15,7 @@ compara com o algoritmo de forca bruta?
 ConvexHull de um conjunto de pontos. Como o seu custo se compara com o algoritmo de forca
 bruta?
 
-Referências dos algoritmos utilizadas:
+# Referências dos algoritmos utilizadas:
 
 Introduction to the design & analysis of algorithms / Anany Levitin. 3rd ed. Tenenbaum, Aaron M.
 
